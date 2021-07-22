@@ -1,0 +1,32 @@
+body {
+    background: lightblue;
+}
+
+section {
+    background: grey;
+}
+
+.main-heading {
+    color: blue
+}
+
+.secondary-heading {
+    color: #d1199a
+}
+
+.third-header {
+    background-color: bisque;
+}
+
+p {
+    color: grey
+}
+
+footer {
+    color: blueviolet;
+    font-size: small;
+}
+
+.header {
+    background: coral;
+}
